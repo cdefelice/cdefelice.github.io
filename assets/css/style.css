@@ -9,7 +9,7 @@
   bottom: 0;
   width: 100%;
   height: 60px;
-  background-color: #81C4FF;
+  background-color: transparent;
 }
 
 .homepagebackground {
@@ -34,4 +34,11 @@
   display: inline-block;
   list-style: none;
   text-align: center;
+}
+
+.ul {
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 16px;
+  color: black;
 }
