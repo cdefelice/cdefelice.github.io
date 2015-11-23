@@ -11,3 +11,9 @@
   height: 60px;
   background-color: #81C4FF;
 }
+
+.homepagebackground {
+  background-image: url("caro-01.png");
+  background-color: #cccccc;
+
+}
