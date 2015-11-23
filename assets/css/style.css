@@ -36,7 +36,7 @@
   text-align: center;
 }
 
-.ul {
+ul {
   text-align: center;
   font-family: Helvetica;
   font-size: 16px;
@@ -47,7 +47,7 @@
   color:#ffffff;
 }
 
-.a{
+a {
   font-family: Helvetica;
   color: black;
   font-size: 16px;
