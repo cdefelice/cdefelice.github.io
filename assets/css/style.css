@@ -23,3 +23,12 @@
   height:30px;
   background-color: #81C4FF;
 }
+
+.menubar {
+  width:100%;
+  height:30px;
+  background-color:transparent;
+  font-family: Helvetica;
+  font-size: 16px;
+  color: black;
+}
