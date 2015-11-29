@@ -13,7 +13,7 @@
 }
 
 .homepagebackground {
-  background-image: url("images/sunflowerhomepage-01.png");
+  background-image: url("images/home-01.png");
   width: 10%;
   height: 10%;
   align-content: center;
@@ -41,17 +41,17 @@
 
 ul {
   text-align: center;
-  font-family: 'Lora'serif;
+  font-family: !important'Lora'serif;
   font-size: 16px;
   color: black;
 }
 
-.navbar-default .navbar-brand {
-  color:!important black;
+!important.navbar-default .navbar-brand {
+  color:black;
 }
 
 a {
-  font-family: Helvetica;
+  font-family: !important'Lora'serif;
   color: black;
   font-size: 16px;
 }
