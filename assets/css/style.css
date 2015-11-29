@@ -4,6 +4,12 @@
   height: 1080px;
 }
 
+h2 {
+  font-family: 'Lora'serif;
+  color: black;
+}
+
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -13,11 +19,13 @@
 }
 
 .homepagebackground {
-  background-image: url("images/home.png");
+  background-image: url("images/home(1).png");
+  background-size: 100%;
   width: 100%;
   height: 100%;
   align-content: center;
   background-color: white;
+  padding-left: none;
 
 }
 
@@ -46,11 +54,11 @@ ul {
   color: black;
 }
 
-!important.navbar-default .navbar-brand {
+!important .navbar-default .navbar-brand {
   color:black;
 }
 
-a {
+!important a {
   font-family: !important'Lora'serif;
   color: black;
   font-size: 16px;
@@ -58,5 +66,5 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #ab6127;
+  color: #494949;
 }
