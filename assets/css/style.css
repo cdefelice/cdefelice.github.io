@@ -7,9 +7,14 @@
 h2 {
   font-family: 'Lora'serif;
   color: black;
-  font-size: 12px;
+  font-size: 18px;
 }
 
+body {
+  font-family: 'Lora'serif;
+  color: black;
+  font-size: 14px;
+}
 
 .footer {
   position: absolute;
@@ -68,4 +73,10 @@ a {
 a:hover {
   text-decoration: none;
   color: black;
+}
+
+
+.row {
+  padding: 10px;
+
 }
