@@ -26,9 +26,9 @@ body {
 
 .homepagebackground {
   background-image: url("../../images/home-01.png");
-  background-size: 90%;
+  background-size: 80%;
   width: 100%;
-  height: 500px;
+  height: 600px;
   background-position: center;
   padding-left: none;
 
