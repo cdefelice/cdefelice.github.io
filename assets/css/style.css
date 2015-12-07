@@ -70,17 +70,8 @@ a:hover {
   color: black;
 }
 
-.container my_container {
-  padding:100px;
-  font-family: 'Lora'serif;
-}
 
 .row {
   padding:100px;
 
-}
-
-div.row {
-  width: auto;
-  height: auto;
 }
