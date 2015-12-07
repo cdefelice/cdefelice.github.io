@@ -71,14 +71,14 @@ a:hover {
 }
 
 .my_container {
-  padding: 100px;
-  border-color: gray;
+  padding:100px;
+  border-color:gray;
 }
 
 .row {
-  padding: !important 100px;
-  border-color: !important gray;
-  border: 2px;
+  padding:100px;
+  border-color:gray;
+  border:2px;
 }
 
 div.row {
