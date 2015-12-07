@@ -57,6 +57,7 @@ ul {
 
 .navbar-default .navbar-brand {
   color:black;
+  font-family: 'Lora'serif !important;
 }
 
 a {
@@ -68,11 +69,10 @@ a {
 a:hover {
   text-decoration: none;
   color: black;
+  font-family: 'Lora'serif; 
 }
 
 
 .row {
   padding:100px;
-  float: left;
-
 }
