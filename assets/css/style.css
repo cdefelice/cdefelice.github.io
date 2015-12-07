@@ -83,3 +83,8 @@ a:hover {
 .row {
   padding:100px;
 }
+
+p {
+  font-family: 'Lora';
+  font-size: 14px;
+}
