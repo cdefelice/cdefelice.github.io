@@ -80,3 +80,8 @@ a:hover {
   border-color: !important gray;
   border: 2px;
 }
+
+div.row {
+  width: auto;
+  height: auto;
+}
