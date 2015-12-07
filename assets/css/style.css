@@ -70,15 +70,14 @@ a:hover {
   color: black;
 }
 
-.my_container {
+.container my_container {
   padding:100px;
   border-color:gray;
 }
 
 .row {
   padding:100px;
-  border-color:gray;
-  border:2px;
+  
 }
 
 div.row {
