@@ -9,6 +9,8 @@ body {
   font-family:'Lora';
   color: black;
   font-size: 14px;
+  margin-left: 10px;
+  margin-top: 100px;
 }
 
 .footer {
@@ -77,6 +79,10 @@ a:hover {
   text-decoration: none;
   color: black;
   font-family:'Lora';
+}
+
+.a navbar-brand {
+  margin-left: 15px;
 }
 
 
