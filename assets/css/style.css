@@ -31,7 +31,7 @@ body {
 
 }
 
-body.navbar {
+.navbar {
   font-family: 'Lora'serif;
   font-size: 14px;
   width:100%;
@@ -39,7 +39,7 @@ body.navbar {
   background-color: #ffffff;
 }
 
-.navbar-brand {
+.navbar-default .navbar-brand {
   font-family: 'Lora'serif;
   margin-left: 15px;
 }
