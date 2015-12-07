@@ -1,6 +1,6 @@
 
 h2 {
-  font-family:'Lora'serif;
+  font-family:'Lora';
   color: black;
   font-size: 18px;
 }
@@ -87,4 +87,9 @@ a:hover {
 p {
   font-family: 'Lora';
   font-size: 14px;
+}
+
+h2 {
+  font-family: 'Lora';
+  font-size: 18px;
 }
