@@ -26,9 +26,10 @@ body {
 
 .homepagebackground {
   background-image: url("../../images/home-01.png");
-  background-size: 80%;
+  background-size: 85%;
+  background-repeat: no-repeat;
   width: 100%;
-  height: 600px;
+  height: 650px;
   background-position: center;
   padding-left: none;
 
@@ -74,6 +75,6 @@ a:hover {
   color: black;
 }
 
-.row {
+row {
   padding: 15px;
 }
