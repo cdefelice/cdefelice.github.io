@@ -6,7 +6,7 @@ h2 {
 }
 
 body {
-  font-family:'Lora'serif;
+  font-family:'Lora';
   color: black;
   font-size: 14px;
 }
@@ -32,7 +32,7 @@ body {
 }
 
 .navbar {
-  font-family: 'Lora'serif;
+  font-family: 'Lora';
   font-size: 14px;
   width:100%;
   height:30px;
@@ -40,7 +40,7 @@ body {
 }
 
 .navbar-default .navbar-brand {
-  font-family: 'Lora'serif;
+  font-family: 'Lora';
   margin-left: 15px;
 }
 
@@ -56,7 +56,7 @@ body {
 }
 
 ul {
-  font-family:'Lora'serif;
+  font-family:'Lora';
   font-size: 16px;
   text-align: center;
   color: black;
@@ -64,11 +64,11 @@ ul {
 
 .navbar-default .navbar-brand {
   color:black;
-  font-family:'Lora'serif;
+  font-family:'Lora';
 }
 
 a {
-  font-family:'Lora'serif;
+  font-family:'Lora';
   color: black;
   font-size: 16px;
 }
@@ -76,7 +76,7 @@ a {
 a:hover {
   text-decoration: none;
   color: black;
-  font-family:'Lora'serif;
+  font-family:'Lora';
 }
 
 
