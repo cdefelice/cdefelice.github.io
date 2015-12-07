@@ -31,7 +31,7 @@ body {
 
 }
 
-.navbar {
+body.navbar {
   font-family: 'Lora'serif;
   font-size: 14px;
   width:100%;
