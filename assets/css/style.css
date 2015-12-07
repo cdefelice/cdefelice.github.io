@@ -72,12 +72,12 @@ a:hover {
 
 .container my_container {
   padding:100px;
-  border-color:gray;
+  font-family: 'Lora'serif;
 }
 
 .row {
   padding:100px;
-  
+
 }
 
 div.row {
