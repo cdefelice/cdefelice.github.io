@@ -21,10 +21,10 @@ body {
 
 .homepagebackground {
   background-image: url("../../images/home-01.png");
-  background-size: 90%;
+  background-size: 74%;
   background-repeat: no-repeat;
   width: 100%;
-  height: 470px;
+  height: 460px;
   background-position: center;
   padding-left: none;
   padding: none;
@@ -83,9 +83,6 @@ a:hover {
   margin-left: 15px;
 }
 
-.div.homepagebackground {
-  margin-top: auto;
-}
 
 .row {
   padding:10px;
